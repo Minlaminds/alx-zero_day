@@ -1,1 +1,3 @@
-my second readme
+my first readme
+
+My Second project on git
